@@ -1,3 +1,4 @@
+#My name is NEO
 # Function example
 getRate <- function(Data){     
 
